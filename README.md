@@ -69,3 +69,11 @@ Implemented classification models:
 1. Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+2. Start Jupyter
+jupyter notebook
+3. Run the project
+Open churn_project.ipynb
+Click Run All (or run cells one by one)
+```
+
+
